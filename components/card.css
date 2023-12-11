@@ -1,0 +1,84 @@
+.card-grey {
+    background-color: linear-gradient(135deg,lightgray, snow); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px auto;
+    width: 50%; 
+    max-width: 600px;
+}
+
+.card-grey .card-image {
+    max-width: 100%; 
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 5px; 
+}
+
+.card-grey h3 {
+    color: #333; 
+    margin-bottom: 15px;
+}
+
+.card-grey p {
+    color: #333; 
+    margin-bottom: 20px;
+}
+
+.card-grey .btn-blue {
+    background-color: lightblue; 
+    color: white; 
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+.card-grey .btn-blue:hover {
+    background-color: #007BFF; 
+}
+
+
+.card-greys {
+    background-color: snow; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px auto;
+    width:90%; 
+    max-width: 810px;
+}
+
+.card-greys .card-image {
+    max-width: 100%; 
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 5px; 
+}
+
+.card-greys h3 {
+    color: #333; 
+    margin-bottom: 15px;
+}
+
+.card-greys p {
+    color: #333; 
+    margin-bottom: 20px;
+}
+
+.card-greys .btn-blue {
+    background-color: lightblue; 
+    color: white; 
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+.card-greys .btn-blue:hover {
+    background-color: #007BFF; 
+}

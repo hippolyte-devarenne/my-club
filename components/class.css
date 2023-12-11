@@ -1,0 +1,14 @@
+.btn-pink {
+    background-color: #FF69B4; /* Rose vif */
+    color: white; /* Texte blanc */
+    padding: 10px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn-pink:hover {
+    background-color: #C71585; /* Rose plus foncé au survol */
+}

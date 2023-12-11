@@ -1,0 +1,53 @@
+.header-container {
+    background-image: url('../../images/dj.jpeg'); /* Utilisez votre image comme fond */
+    background-size: cover; /* S'assure que l'image couvre tout l'espace disponible */
+    background-position: center; /* Centre l'image */
+    text-align: center;
+    padding: 50px 0; /* Ajustez selon vos besoins */
+}
+
+/* Si vous avez des éléments spécifiques dans votre en-tête (comme des titres, des textes, ou des boutons), assurez-vous qu'ils sont bien visibles sur l'image de fond. Par exemple : */
+.header-container h1, 
+.header-container h2, 
+.header-container a {
+    color: white; /* Choisissez une couleur qui contraste bien avec votre image de fond */
+    /* Ajoutez d'autres styles selon vos besoins */
+}
+
+
+.logo-and-text {
+    display: flex;
+    align-items: center;
+    background-color: #d3d3d3; /* Gris clair */
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.logo-image {
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.text-content {
+    text-align: left;
+}
+
+h1, h2 {
+    margin: 0;
+    color: #C71585;
+}
+
+.btn-participate {
+    background-color: #FF69B4; /* Rose vif */
+    color: white;
+    padding: 10px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+
+
